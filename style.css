@@ -1,0 +1,37 @@
+main,body
+{
+    height: 100vh;
+}
+
+#cuadrao
+{
+    height: 10%;
+    width:  100%;
+    background-color: blue;
+    position: relative;
+}
+
+#cuadraito
+{
+    height: 100%;
+    width:  20%;
+    background-color: lightblue;
+    position: absolute;
+}
+
+#cuadraogblanco
+{
+    height: 50%;
+    width:  100%;
+    background-color: white;
+    position: relative;
+}
+#cuadraitogris
+{
+    height: 80%;
+    width:  20%;
+    background-color: grey;
+    left: 20%;
+    top: 35%;
+    position: absolute;
+}
