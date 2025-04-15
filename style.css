@@ -28,10 +28,19 @@ main,body
 }
 #cuadraitogris
 {
-    height: 80%;
-    width:  20%;
-    background-color: grey;
-    left: 20%;
+    height: 48%;
+    width:  12%;
+    background-color: lightgray;
+    left: 10%;
+    top: 35%;
+    position: absolute;
+}
+#Cuadradopetitgris
+{
+    height: 48%;
+    width:  12%;
+    background-color: gray;
+    left: 10%;
     top: 35%;
     position: absolute;
 }
