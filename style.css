@@ -32,7 +32,7 @@ main,body
     width:  12%;
     background-color: lightgray;
     left: 10%;
-    top: 35%;
+    top: 10%;
     position: absolute;
 }
 #Cuadraopetitgris
@@ -50,7 +50,7 @@ main,body
     width:  10%;
     background-color: lightgray;
     left: 11%;
-    top: 87%;
+    top: 60%;
     position: absolute;
 }
 #letrados
@@ -59,7 +59,7 @@ main,body
     width:  10%;
     background-color: lightgray;
     left: 11%;
-    top: 90%;
+    top: 64%;
     position: absolute;
 }
 
@@ -69,7 +69,7 @@ main,body
     width:  10%;
     background-color: lightgray;
     left: 11%;
-    top: 93%;
+    top: 68%;
     position: absolute;
 }
 #cuadradark
@@ -78,7 +78,7 @@ main,body
     width:  7%;
     background-color: rgb(95, 95, 95);
     left: 12.67%;
-    top: 97%;
+    top: 72%;
     position: absolute;
 }
 #letracuatro
@@ -87,7 +87,7 @@ main,body
     width: 6%;
     background-color: lightgray;
     left: 13.1%;
-    top: 99%;
+    top: 74%;
     position: absolute;
 }
 #cuadradarkxl
@@ -96,7 +96,7 @@ main,body
     width:  20%;
     background-color: rgb(95, 95, 95);
     left: 40%;
-    top: 50%;
+    top: 25%;
     position: absolute;
 }
 #letraunoxl
@@ -105,7 +105,7 @@ main,body
     width:  45%;
     background-color: lightgray;
     left: 40%;
-    top: 60%;
+    top: 35%;
     position: absolute;
 }
 #letradosxl
@@ -114,7 +114,7 @@ main,body
     width:  45%;
     background-color: lightgray;
     left: 40%;
-    top: 65%;
+    top: 40%;
     position: absolute;
 }
 #letratresxl
@@ -123,7 +123,7 @@ main,body
     width:  45%;
     background-color: lightgray;
     left: 40%;
-    top: 70%;
+    top: 45%;
     position: absolute;
 }
 #letracuatroxl
@@ -132,7 +132,7 @@ main,body
     width:  45%;
     background-color: lightgray;
     left: 40%;
-    top: 75%;
+    top: 50%;
     position: absolute;
 }
 #letracincoxl
@@ -141,7 +141,7 @@ main,body
     width:  25%;
     background-color: lightgray;
     left: 50%;
-    top: 80%;
+    top: 55%;
     position: absolute;
 }
 #cuadraitoblanco
@@ -175,7 +175,7 @@ main,body
 {
     height: 40%;
     width:  100%;
-    background-color: purple;
+    background-color: white;
     position: relative;
 }
 #cuadradogris
@@ -183,8 +183,8 @@ main,body
     height: 20%;
     width:  20%;
     background-color: rgb(245, 60, 60);
-    left: 10%;
-    top: 90%;
+    left: 5%;
+    top: 1%;
     position: absolute;
 }
 
