@@ -277,8 +277,151 @@ main,body
     top: 72%;
     position: absolute;
 }
+#cuadradogrisunoletrauno
+{
+    height: 1%;
+    width:  6%;
+    background-color: lightgray;
+    left: 79%;
+    top: 43%;
+    position: absolute;
+}
+#regtangulouno
+{
+    height: 3%;
+    width:  6%;
+    background-color: lightgray;
+    left: 79%;
+    top: 38%;
+    position: absolute;
+}
+#cuadradogrisunoletrados
+{
+    height: 1%;
+    width:  6%;
+    background-color: lightgray;
+    left: 79%;
+    top: 46%;
+    position: absolute;
+}
+#cuadradogrisunoletratres
+{
+    height: 1%;
+    width:  4%;
+    background-color: lightgray;
+    left: 80%;
+    top: 49%;
+    position: absolute;
+}
 
-
+#regtangulodos
+{
+    height: 3%;
+    width:  6%;
+    background-color: lightgray;
+    left: 79%;
+    top: 96%;
+    position: absolute;
+}
+#cuadradogrisdosletrauno
+{
+    height: 1%;
+    width:  6%;
+    background-color: lightgray;
+    left: 79%;
+    top: 101%;
+    position: absolute;
+}
+#cuadradogrisdosletrados
+{
+    height: 1%;
+    width:  6%;
+    background-color: lightgray;
+    left: 79%;
+    top: 104%;
+    position: absolute;
+}
+#cuadradogrisdosletratres
+{
+    height: 1.1%;
+    width:  4%;
+    background-color: lightgray;
+    left: 80%;
+    top: 107%;
+    position: absolute;
+}
+#regtangulotres
+{
+    height: 3%;
+    width:  6%;
+    background-color: lightgray;
+    left: 91%;
+    top: 38%;
+    position: absolute;
+}
+#cuadradogristresletrauno
+{
+    height: 1%;
+    width:  6%;
+    background-color: lightgray;
+    left: 91%;
+    top: 43%;
+    position: absolute;
+}
+#cuadradogristresletrados
+{
+    height: 1%;
+    width:  6%;
+    background-color: lightgray;
+    left: 91%;
+    top: 46%;
+    position: absolute;
+}
+#cuadradogristresletratres
+{
+    height: 1%;
+    width:  4%;
+    background-color: lightgray;
+    left: 92%;
+    top: 49%;
+    position: absolute;
+}
+#regtangulocuatro
+{
+    height: 3%;
+    width:  6%;
+    background-color: lightgray;
+    left: 91%;
+    top: 96%;
+    position: absolute;
+}
+#cuadradogriscuatroletrauno
+{
+    height: 1%;
+    width:  6%;
+    background-color: lightgray;
+    left: 91%;
+    top: 101%;
+    position: absolute;
+}
+#cuadradogriscuatroletrados
+{
+    height: 1%;
+    width:  6%;
+    background-color: lightgray;
+    left: 91%;
+    top: 104%;
+    position: absolute;
+}
+#cuadradogriscuatroletratres
+{
+    height: 1.1%;
+    width:  4%;
+    background-color: lightgray;
+    left: 92%;
+    top: 107%;
+    position: absolute;
+}
 
 
 
